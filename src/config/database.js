@@ -15,4 +15,6 @@ const dbConnect = async () => {
     }
 }
 
+//new code
+
 export default dbConnect;
